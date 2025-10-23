@@ -106,3 +106,8 @@ In this healthcare analytics project, I build some dashoboards in tableau for fl
 
 [View Flu Shot Dashboard](https://public.tableau.com/app/profile/shreya.suman4841/viz/ImmunizationDashboard_17610346455430/RunningSumofFluShots2019)
 
+[View Emergency Room Visit Dashboard](https://public.tableau.com/app/profile/shreya.suman4841/viz/ERDashboard_17612183794830/Dashboard1)
+
+[View Encounter Dashboard 1](https://public.tableau.com/app/profile/shreya.suman4841/viz/EncounterDashboard1_17612186756990/Dashboard2)
+
+[View Encounter Dashboard 2](https://public.tableau.com/app/profile/shreya.suman4841/viz/EncounterDashboard2_17612188172080/Dashboard1)
